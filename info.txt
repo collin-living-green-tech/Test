@@ -1,0 +1,1 @@
+This is some info for git repo
